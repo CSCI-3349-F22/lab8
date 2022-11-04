@@ -2,7 +2,7 @@
 
 After you clone this repo to your own machine, you here's what you should do.
 
-1. Open the `lab8.ipynb` with Colab. 
+1. Open the `lab8.ipynb` with Colab as follows:
 
 * Go http://colab.research.google.com
 * Choose the `Upload` tab on the right of the window that pops up.
