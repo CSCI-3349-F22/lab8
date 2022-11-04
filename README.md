@@ -10,4 +10,4 @@ After you clone this repo to your own machine, you here's what you should do.
 
 2. Create a directory on your Google Drive for this lab. Call it `lab8` and upload the two text files in this repo, `click_train.csv` and `click_test.csv`.
 
-**This lab is due Thursday, November 10, 2022, at 11:59pm EDS.**
+**This lab is due Thursday, November 10, 2022, at 11:59pm EST.**
